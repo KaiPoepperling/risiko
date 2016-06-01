@@ -1,0 +1,214 @@
+{
+   "regions": [
+     {
+         "name": "Alaska",
+         "continent": "North America",
+         "value": ""
+     },
+     {
+         "name": "Alberta",
+         "continent": "North America",
+         "value": ""
+     },
+     {
+         "name": "Central America",
+         "continent": "North America",
+         "value": ""
+     },
+     {
+         "name": "Eastern United States",
+         "continent": "North America",
+         "value": ""
+     },
+     {
+         "name": "Greenland",
+         "continent": "North America",
+         "value": ""
+     },
+     {
+         "name": "Northwest Territory",
+         "continent": "North America",
+         "value": ""
+     },
+     {
+         "name": "Ontario",
+         "continent": "North America",
+         "value": ""
+     },
+     {
+         "name": "Quebec",
+         "continent": "North America",
+         "value": ""
+     },
+     {
+         "name": "Western United States",
+         "continent": "North America",
+         "value": ""
+     },
+     {
+         "name": "Argentina",
+         "continent": "South America",
+         "value": ""
+     },
+     {
+         "name": "Brazil",
+         "continent": "South America",
+         "value": ""
+     },
+     {
+         "name": "Peru",
+         "continent": "South America",
+         "value": ""
+     },
+     {
+         "name": "Venezuela",
+         "continent": "South America",
+         "value": ""
+     },
+     {
+         "name": "Congo",
+         "continent": "Africa",
+         "value": ""
+     },
+     {
+         "name": "East Africa",
+         "continent": "Africa",
+         "value": ""
+     },
+     {
+         "name": "Egypt",
+         "continent": "Africa",
+         "value": ""
+     },
+     {
+         "name": "Madagascar",
+         "continent": "Africa",
+         "value": ""
+     },
+     {
+         "name": "North Africa",
+         "continent": "Africa",
+         "value": ""
+     },
+     {
+         "name": "South Africa",
+         "continent": "Africa",
+         "value": ""
+     },
+     {
+         "name": "Great Britain",
+         "continent": "Europe",
+         "value": ""
+     },
+     {
+         "name": "Iceland",
+         "continent": "Europe",
+         "value": ""
+     },
+     {
+         "name": "Northern Europe",
+         "continent": "Europe",
+         "value": ""
+     },
+     {
+         "name": "Scandinavia",
+         "continent": "Europe",
+         "value": ""
+     },
+     {
+         "name": "Southern Europe",
+         "continent": "Europe",
+         "value": ""
+     },
+     {
+         "name": "Ukraine",
+         "continent": "Europe",
+         "value": ""
+     },
+     {
+         "name": "Western Europe",
+         "continent": "Europe",
+         "value": ""
+     },
+     {
+         "name": "Afghanistan",
+         "continent": "Asia",
+         "value": ""
+     },
+     {
+         "name": "China",
+         "continent": "Asia",
+         "value": ""
+     },
+     {
+         "name": "India",
+         "continent": "Asia",
+         "value": ""
+     },
+     {
+         "name": "Irkutsk",
+         "continent": "Asia",
+         "value": ""
+     },
+     {
+         "name": "Japan",
+         "continent": "Asia",
+         "value": ""
+     },
+     {
+         "name": "Kamchatka",
+         "continent": "Asia",
+         "value": ""
+     },
+     {
+         "name": "Middle East",
+         "continent": "Asia",
+         "value": ""
+     },
+     {
+         "name": "Mongolia",
+         "continent": "Asia",
+         "value": ""
+     },
+     {
+         "name": "Siam",
+         "continent": "Asia",
+         "value": ""
+     },
+     {
+         "name": "Siberia",
+         "continent": "Asia",
+         "value": ""
+     },
+     {
+         "name": "Ural",
+         "continent": "Asia",
+         "value": ""
+     },
+     {
+         "name": "Yakutsk",
+         "continent": "Asia",
+         "value": ""
+     },
+     {
+         "name": "Eastern Australia",
+         "continent": "Australia",
+         "value": ""
+     },
+     {
+         "name": "Indonesia",
+         "continent": "Australia",
+         "value": ""
+     },
+     {
+         "name": "New Guinea",
+         "continent": "Australia",
+         "value": ""
+     },
+     {
+         "name": "Western Australia",
+         "continent": "Australia",
+         "value": ""
+     },
+   ]
+}

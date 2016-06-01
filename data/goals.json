@@ -1,0 +1,74 @@
+{
+   "goals": [
+     {
+         "number": 1,
+         "description": "Capture Europe, Australia and one other continent",
+         "army": "None"
+     },
+     {
+         "number": 2,
+         "description": "Capture Europe, South America and one other continent",
+         "army": "None"
+     },
+     {
+         "number": 3,
+         "description": "Capture North America and Africa",
+         "army": "None"
+     },
+     {
+         "number": 4,
+         "description": "Capture North America and Australia",
+         "army": "None"
+     },
+     {
+         "number": 5,
+         "description": "Capture Asia and South America",
+         "army": "None"
+     },
+     {
+         "number": 6,
+         "description": "Capture Asia and Africa",
+         "army": "None"
+     },
+     {
+         "number": 7,
+         "description": "Capture 24 territories",
+         "army": "None"
+     },
+     {
+         "number": 8,
+         "description": "Capture 18 territories and occupy each with two troops",
+         "army": "None"
+     },
+     {
+         "number": 9,
+         "description": "Destroy all armies of the red player or—if one's own troops are that color—capture 24 territories",
+         "army": "red"
+     },
+     {
+         "number": 10,
+         "description": "Destroy all armies of the yellow player or—if one's own troops are that color—capture 24 territories",
+         "army": "yellow"
+     },
+     {
+         "number": 11,
+         "description": "Destroy all armies of the green player or—if one's own troops are that color—capture 24 territories",
+         "army": "green"
+     },
+     {
+         "number": 12,
+         "description": "Destroy all armies of the blue player or—if one's own troops are that color—capture 24 territories",
+         "army": "blue"
+     },
+     {
+         "number": 13,
+         "description": "Destroy all armies of the black player or—if one's own troops are that color—capture 24 territories",
+         "army": "black"
+     },
+     {
+         "number": 14,
+         "description": "Destroy all armies of the pink player or—if one's own troops are that color—capture 24 territories",
+         "army": "pink"
+     }
+   ]
+}
