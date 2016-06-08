@@ -26,6 +26,11 @@ class Region(object):
         """
         return self._units
 
+    def set_owner(self, new_owner):
+        """
+        """
+        self._owner = new_owner
+
     def _increase_units(self, units):
         """
         """
@@ -35,10 +40,5 @@ class Region(object):
         """
         """
         self._units -= units
-
-    def _set_owner(self, new_owner):
-        """
-        """
-        self._owner = new_owner
 
 __all__ = [Region.__name__]
